@@ -20,6 +20,8 @@ var/
 .installed.cfg
 *.egg
 
+venv/
+
 # VS Code
 .vscode/
 .history/
@@ -29,5 +31,5 @@ logs/
 *.log
 
 # Test folders
-source_test/
-replica_test/
+#source_test/
+#replica_test/

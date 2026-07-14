@@ -1,0 +1,91 @@
+.
+|___.DS_Store
+|___requirements.txt
+|___tests
+| |___test_file_operations.py
+| |___test_comparison.py
+| |____init_.py
+| |___test_sync_manager.py
+|___README.md
+|___setup.py
+|___.gitignore
+|___.git
+| |___config
+| |___objects
+| | |___0d
+| | | |___acc78eca9d5486e164df67a75ea64bed2c23e5
+| | |___57
+| | | |___e3d83d42374a68e8c7dc6d5eb37bb3522e604c
+| | |___3d
+| | | |___b66b3d456d084eedc744ca44ab6d19705833c9
+| | |___d1
+| | | |___cb6efefae4c52c6ff407e7a3dca9ca2fdf8c8d
+| | |___ab
+| | | |___7bb6ecef73d6f6a641b70e9a451427ab9dfdd0
+| | |___fb
+| | | |___e82f0afbe2045a2fb6483c2f688217c51af966
+| | |___pack
+| | |___11
+| | | |___7f4d1439d2e65ac97c83a1976aeff67d50d7df
+| | |___7e
+| | | |___44f9801ccf884af30055b7bcb3d1861c38e22a
+| | |___38
+| | | |___536ba6739f0f818b6a420db96f0cc4ae84a284
+| | |___info
+| | |___30
+| | | |___e0cc316651e8505cd8278d3c999aa76c9ab11c
+| | |___aa
+| | | |___e774fe48299efc6402a7da5e27a08a98069a89
+| | |___e6
+| | | |___9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+| | |___e8
+| | | |___8d1f9bd1b01e3d4f00621392a98e4c832f44d9
+| | |___71
+| | | |___02dd7ccf061ae312eb26e082f0f5dc04cab726
+| |___HEAD
+| |___info
+| | |___exclude
+| |___logs
+| | |___HEAD
+| | |___refs
+| | | |___heads
+| | | | |___main
+| | | |___remotes
+| | | | |___origin
+| | | | | |___main
+| |___description
+| |___hooks
+| | |___commit-msg.sample
+| | |___pre-rebase.sample
+| | |___sendemail-validate.sample
+| | |___pre-commit.sample
+| | |___applypatch-msg.sample
+| | |___fsmonitor-watchman.sample
+| | |___pre-receive.sample
+| | |___prepare-commit-msg.sample
+| | |___post-update.sample
+| | |___pre-merge-commit.sample
+| | |___pre-applypatch.sample
+| | |___pre-push.sample
+| | |___update.sample
+| | |___push-to-checkout.sample
+| |___refs
+| | |___heads
+| | | |___main
+| | |___tags
+| | |___remotes
+| | | |___origin
+| | | | |___main
+| |___index
+| |___COMMIT_EDITMSG
+| |___FETCH_HEAD
+|___structure.txt
+|___.vscode
+| |___settings.json
+|___main.py
+|___src
+| |___sync_manager.py
+| |___logger.py
+| |___comparison.py
+| |____init_.py
+| |___file_operations.py

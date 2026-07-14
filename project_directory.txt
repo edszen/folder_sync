@@ -1,0 +1,20 @@
+.
+├── README.md
+├── main.py
+├── project_directory.txt
+├── requirements.txt
+├── setup.py
+├── src
+│   ├── _init_.py
+│   ├── comparison.py
+│   ├── file_operations.py
+│   ├── logger.py
+│   └── sync_manager.py
+├── structure.txt
+└── tests
+    ├── _init_.py
+    ├── test_comparison.py
+    ├── test_file_operations.py
+    └── test_sync_manager.py
+
+3 directories, 15 files

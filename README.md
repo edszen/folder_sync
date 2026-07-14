@@ -47,6 +47,10 @@ The application follows a modular design with separation of concerns:
 
 ## Testing
 Run tests with:
+pytest
+
+Run tests with coverage report:
+pytest --cov=src
 
 
 ## License
